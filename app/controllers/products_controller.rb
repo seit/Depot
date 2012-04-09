@@ -1,4 +1,5 @@
 class ProductsController < ApplicationController
+  #Productは商品を登録するタスク
   # GET /products
   # GET /products.json
   def index
